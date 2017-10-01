@@ -1,0 +1,150 @@
+rainning,raining : 5416,rinning : 0,running : 408266,reigning : 21260,ruining : 7526,ranging : 42705,ranking : 15667
+raning,raining : 186946,raxing : 0,running : 364137,ruining : 15533,reining : 4474,ranging : 209038,training : 5548802
+writtings,writings : 64190,wittings : 0,wettings : 0
+disparingly,despairingly : 17106,disparagingly : 2460,disposingly : 0
+yello,yellow : 1799967,yell : 2792,well : 588926,elle : 7841,allo : 3060,hello : 624,yelled : 116292
+forer,forex : 536,firer : 0,freer : 41898,frere : 14815,ferrer : 7887,former : 376198,form : 2567938
+fours,furs : 3712,fears : 81957,fairs : 20236,firs : 2556,foyers : 1854,four : 282004,course : 2985375
+fuore,fore : 7335,fire : 257422,fury : 102555,fare : 45200,faire : 18563,furore : 8041,future : 1932183
+fore*5,fore : -88,foredo : 0,foret : -5,forel : -7,forego : -121
+for*4,forra : 0,fora : -30,foray : -60,fore : -263,foram : 0,foret : -5,forel : -7
+woodes,woods : 197236,woodies : 0,wades : 0,wooden : 7412,wooded : 5448,woldes : 0,words : 976541
+haing,hang : 61497,haying : 2591,hing : 158,hung : 138113,hong : 28251,having : 403645,being : 5923883
+agression,aggression : 386426,egression : 0,regression : 127403,digression : 11273,ingression : 0
+loking,looking : 1545388,locking : 96763,liking : 15437,leaking : 39278,lacking : 22997,joking : 6695,making : 1311719
+begining,beginning : 1238179,brining : 0
+luing,lung : 64521,lying : 54928,ling : 1153,long : 1000468,link : 95361,luring : 14762,being : 2052971
+look*2,lookee : 0,look : -51061,lookum : 0,looker : -9,lookup : -90,looked : -6598,looks : -11548
+locking,lacking : 181240,licking : 4623,looking : 3832,leaking : 3320,liking : 3311,rocking : 2643,packing : 48758
+lucking,lacking : 64876,locking : 12632,licking : 6211,looking : 250990,leaking : 2556,bucking : 1307,backing : 21439
+louk,look : 940965,lock : 1029,leuk : 0,lack : 463026,luck : 398525,loud : 5124,louis : 2908416
+looing,lowing : 244,loeing : 0,long : 401454,laying : 81239,lying : 39442,looking : 329281,loading : 559929
+lookin,lockian : 0,looking : 1584082,looked : 1321882,look : 102122,looks : 33734,loosen : 15873,lookup : 4768
+liking,licking : 17928,laking : 0,looking : 966206,leaking : 38421,lacking : 22997,linking : 82836,making : 1172708
+eligble,eligible : 86413,ligable : 0
+elegable,delegable : 0,eligible : 236575,ligable : 0
+eligable,eligible : 179195,ligable : 0,likable : 964,delegable : 0
+electrisity,electricity : 567011
+electricty*2
+electrizity,electricity : 7402
+schold,scold : 2924,chold : 0,should : 18905500,child : 393712,sheld : 0,schola : 37,scholar : 23819
+skold,scold : 3369,skald : 0,scald : 2391,skoaled : 0,sold : 2122,stold : 0,solid : 374831
+adabtable,adaptable : 6750,adoptable : 0
+canned,conned : 2628,caned : 481,cannet : 0,coined : 18599,gunned : 4379,tanned : 2441,canine : 51891
+cained,gained : 278688,coined : 36367,caned : 620,conned : 1329,cand : 1016,chained : 101906,caused : 481394
+imature,immature : 172639,mature : 0,impure : 6334,armature : 301,immure : 0
+shoudln,shuln : 0
+shouldnt,shouldn't : 0,shouldst : 249,shouldn : 0,shouldest : 1355
+swival,swivel : 14691,swivels : 2509,swived : 0
+apropriation,appropriation : 690012,propriation : 0,impropriation : 0
+furr,fur : 114354,furry : 14022,fury : 7867,four : 1508022,fire : 309548,furor : 6907,form : 1056661
+fer,for : 70909225,far : 7549094,fear : 5254143,fire : 3916870,four : 2724218,few : 484729,were : 41141560
+stabed,stabbed : 19759,stubbed : 2277,stuped : 0,stated : 3854,stared : 1840,stabled : 1261,stained : 440569
+Suothwode
+distrebe,diatribe : 7345,disrobe : 0
+desturb,disturb : 185925,deturb : 0,disturbs : 20567,disturn : 0
+reclections,recollections : 29519,reflections : 3859,reelections : 0,reflection's : 0
+recolections,recollections : 142538,recollection's : 0,reelections : 0
+prise,price : 4092352,prize : 2904529,praise : 460654,press : 1937358,paris : 949256,pride : 46612,phrase : 1058840
+prizer,prizery : 0,praiser : 0,prize : 55444,prized : 2789,prizes : 2566,frizer : 0,prior : 318836
+wensday,wednesday : 302681
+wedensday
+sucession,secession : 12594,sezession : 0,succession : 1194664,session : 17144,recession : 9547,scission : 3555,decession : 0
+sucesion,secession : 52170,suasion : 3651,subcision : 0
+succesion,succession : 555640,subcision : 0
+strate,strata : 207496,striate : 14055,strade : 0,strait : 268612,stride : 34539,state : 519061,strike : 443976
+strait,streit : 3669,strit : 0,street : 2010243,strata : 88605,strut : 6713,straits : 128221,strict : 150577
+staidght
+stright*2,stright : 0
+gards_men,guardsmen : 44342
+increented,incremented : 2839
+backen,baken : 0,bacon : 97522,beckon : 4698,buckeen : 0,bracken : 26551,backed : 19717,back : 6740695
+baken,backen : 0,bacon : 89197,taken : 14792,baker : 13987,baked : 9083,bake : 6318,been : 1836344
+pluse,plus : 265045,place : 7331257,please : 1233444,pulse : 43044,blouse : 23326,pluses : 4538,close : 392135
+elagent,eligent : 0,element : 606652,elegant : 237807,eluent : 210,lagend : 0
+elligit,elegit : 0,illicit : 50416,ellagic : 0
+secand,second : 4102797,secant : 745,secund : 0,scant : 13274,seconde : 5790,stand : 353976,seconds : 224839
+sexeon,saxon : 122677,sexton : 1129,sexern : 0,sexes : 3999,sexed : 345,exon : 328,exion : 0
+secund,second : 1510945,secunda : 4315,seconde : 4275,secondo : 1688,secant : 883,fecund : 220,sound : 336591
+seconnd,second : 569510,seconde : 3725,secondo : 1112,secund : 0,seaconny : 0
+seond,send : 23875,sond : 0,sound : 2518938,sand : 322515,sent : 223761,second : 3733921,soon : 1023065
+sekon,skin : 320956,soken : 0,seton : 664,seron : 0,season : 1371129,seen : 575181,soon : 552802
+jam_jar,jamadar : 0
+saled,sailed : 1080121,sealed : 191016,salad : 143574,solid : 1103092,sold : 684343,scaled : 169427,said : 14500104
+saild,sailed : 502965,sild : 0,salt : 167660,sold : 109371,soiled : 51246,said : 2782412,failed : 1306916
+boludes,bolides : 0,blades : 17519,boldos : 0,boluses : 0,blues : 8924,boldest : 5477,eludes : 1279
+thounder,thunder : 11528,thonder : 0,thundery : 0,hounder : 0,thunders : 5686,chunder : 528,bhunder : 0
+coking,cooking : 187541,cocking : 13431,caking : 1753,cauking : 0,choking : 103831,coping : 2903,making : 1254669
+chocking,checking : 54587,shocking : 31924,chucking : 2320,shucking : 0,cocking : 1417,hocking : 0,hacking : 5429
+kooking,cooking : 60792,kicking : 5325,keeking : 0,looking : 21588,hooking : 817,booking : 0,soaking : 10471
+cocking,coking : 520,cooking : 502,cacking : 0,kicking : 26372,caking : 305,clocking : 1624,checking : 336798
+fosscil,fossil : 13574
+incased,encased : 18778,uncased : 0,uncaused : 7947,incast : 0,incised : 39374,incases : 0,increased : 1974198
+ingreesh_this
+incresing,increasing : 4400109,incrossing : 0,inclosing : 2332,incusing : 0
+incriosing,increasing : 1029199,incrossing : 0
+increacing,increasing : 626104,uncreating : 0
+incressing,increasing : 31550,incrossing : 0,uncrossing : 0,undressing : 2615,incrusting : 0
+increcing,increasing : 2513106,increeping : 0
+ingeker,inker : 0
+incrsin,incursion : 13525
+inceasing,increasing : 2241161,unceasing : 14310,incising : 2345,incensing : 0,encasing : 1422,incusing : 0
+inceing,wincing : 695,inching : 155,inbeing : 0,inciting : 23795,incising : 5356,icing : 3761,mincing : 813
+increase,encrease : 3374,increased : 4387459,increases : 1296373,increaser : 0,increst : 0
+insest,insist : 376666,incest : 80418,insect : 299399,insert : 6369,inset : 3774,invest : 2723,insists : 172851
+ingcresing,increasing : 2247253
+incuiseing,incusing : 0,incising : 745
+enchres,euchres : 0,encores : 23,inches : 665748,enchases : 0
+intheris,anthers : 4353,inheres : 3168,anthesis : 743,antherid : 0
+incesing,incising : 6151,unceasing : 44178,incensing : 0,inciting : 14376,infusing : 3324,encasing : 2744,uncasing : 0
+encreing,encoring : 0,enuring : 0
+increesing,increasing : 1817743,incrossing : 0,increeping : 0,uncreeping : 0
+crace,grace : 365909,craze : 5996,chace : 73,crease : 22459,grice : 5896,trace : 47750,price : 1411982
+encrising,enclosing : 9298,encrusting : 1750,encasing : 721,unarising : 0
+increaseng,increasing : 2364088
+encressing,increasing : 1197819,engrossing : 5589,uncrossing : 0,undressing : 3500,encrusting : 1163
+in_cresing,increasing : 2198706
+incrising,incising : 91,increasing : 1633888,incrossing : 0,inclosing : 1140,incusing : 0
+incersinges
+changing,clanging : 54,charging : 6508,chanting : 890,chancing : 280,hanging : 0,chaining : 29541,changeling : 3701
+incesting,insisting : 92736,encysting : 0,ingesting : 2811,investing : 2610,infesting : 63,incepting : 0,incising : 3223
+encreasing,increasing : 2364088,encasing : 32,uncreating : 0
+crissing,crossing : 63736,cissing : 0,cruising : 14425,caressing : 13477,creasing : 1799,crisping : 0,pressing : 126203
+incriasing,increasing : 1204133,incrossing : 0,incasing : 0
+incsin,inosin : 0,incision : 198858,incline : 57695,incan : 692,inosine : 0
+incing,wincing : 0,unsing : 0,inching : 12810,inking : 3053,icing : 2817,inning : 210,ending : 167583
+increaseing,increasing : 473323
+ingesing,ingesting : 4920,incising : 3295,infusing : 3278,incusing : 0
+imceasing,unceasing : 10332
+incristing,incrusting : 0,encrusting : 1882,intrusting : 0
+engressing,engrossing : 6197,ingrossing : 0,egressing : 0,undressing : 3824,aggressing : 0
+ingresin,ingression : 0,ingress : 621,ingrain : 0
+incrase,increase : 5272473,inchase : 0,encrease : 5201,incurse : 0,incase : 0,increased : 4403120,increases : 1530230
+encash,encase : 34,incas : 15923,noncash : 1224,unlash : 0
+heroe,here : 502236,hero : 21186,hire : 164747,hare : 76911,hera : 10325,heroes : 286733,were : 1509029
+dael,duel : 35563,del : 28386,diel : 2540,daily : 2507554,deal : 854756,gael : 1420,does : 2793208
+repoter,repeater : 13024,rebater : 0,reporter : 142301,remoter : 481,reposer : 0,reputed : 25853,repute : 17374
+rebarter,reporter : 82085,rebater : 0,rebutter : 0
+reportor,reporter : 46751,repertory : 24341,reported : 263071,report : 78017,reporters : 62384,reports : 52950,deporter : 0
+reproter,reporter : 48282,reprover : 0,repeater : 3549,reprefer : 0
+reoporter,reporter : 4329,reported : 68573,reporters : 48714,deporter : 0
+repoted,reputed : 48653,repeated : 976778,rebated : 0,reported : 1304839,reposed : 1572,remoted : 0,related : 734133
+reporet,report : 2026406,raport : 0,reports : 1299528,resort : 97871,retort : 12327,deport : 2183,repure : 0
+peportery
+interupting,interrupting : 32969,interesting : 131233,interacting : 9484,intercepting : 4117,intrusting : 0
+hiar,hear : 1409322,haar : 3211,hoar : 2768,hour : 709465,hair : 211689,hilar : 5931,year : 3299746
+hare,here : 8312150,hire : 194223,haire : 18458,hair : 3927143,hear : 1036480,have : 1481301,were : 22017845
+hir,her : 28285217,hire : 338026,hair : 252314,here : 11540685,hour : 1069177,his : 2178341,their : 13039356
+hair,heir : 181406,hairy : 57409,haire : 6193,hour : 1093190,hear : 690275,hairs : 83731,their : 20698014
+haiw,haw : 4016,heii : 0,hair : 29035,hail : 608,hait : 0,heir : 92811,shaw : 23593
+liet,let : 718539,lieut : 115807,lit : 45517,lett : 43562,loot : 8414,list : 95372,left : 2348878
+hreb,reb : 0,arab : 305343,grab : 56181,hereby : 53807,herb : 49477,crab : 41776,crib : 24574
+hah,huh : 31113,heh : 5759,hay : 1987,high : 1466803,haugh : 0,has : 421926,hair : 3501778
+her,here : 15594608,hear : 5149905,heir : 385915,hour : 1252017,hair : 1230852,he : 14957189,their : 44032091
+hes,his : 122789523,has : 42669439,hoes : 6385,hose : 60734,hays : 24249,he : 12556652,this : 65044444
+hiyr,hir : 93,hear : 707501,hour : 205539,hire : 169708,hair : 130975,hays : 9364,haye : 2345
+there,thore : 0,their : 58414154,theory : 3268152,threw : 104686,thru : 17234,these : 787636,other : 9239780
+three,threw : 20155,throe : 1733,there : 20680246,throw : 140564,thru : 22445,tree : 109239,true : 1894115
+hay,hey : 149814,haye : 12203,hoy : 10298,hoey : 2228,hayey : 0,has : 492247,they : 23670085
+hea,he : 26313573,ha : 111337,hee : 34469,haya : 4853,hoey : 1123,head : 2968494,here : 7981829
+herre,here : 1573094,herr : 49559,harre : 3570,hear : 564919,harry : 550103,terre : 769,horse : 331071
